@@ -945,6 +945,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-service-impl.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.sendextcamcmd-V1-service-impl.so \
+    vendor/oneplus/oneplus9/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/oneplus/oneplus9/proprietary/odm/vendor/firmware/goodixfp.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/goodixfp.b00 \
     vendor/oneplus/oneplus9/proprietary/odm/vendor/firmware/goodixfp.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/goodixfp.b01 \
     vendor/oneplus/oneplus9/proprietary/odm/vendor/firmware/goodixfp.b02:$(TARGET_COPY_OUT_ODM)/vendor/firmware/goodixfp.b02 \
