@@ -2245,6 +2245,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     SimContact \
     atfwd \
+    datastatusnotification \
     uceShimService \
     dpmserviceapp \
     ims \
