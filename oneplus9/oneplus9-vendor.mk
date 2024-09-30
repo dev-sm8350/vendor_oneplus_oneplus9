@@ -1909,13 +1909,13 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogle \
     HotwordEnrollmentXGoogle \
     com.android.hotwordenrollment.common.util \
-    vendor.qti.diag.hal.service \
-    vendor.qti.hardware.limits@1.0-service \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    manifest_dax_dolby_v3_6 \
-    manifest_oplus_cameraextension_aidl \
-    manifest_oplus_fingerprint \
-    manifest_oplus_sendextcamcmd
+    vendor.qti.diag.hal.service.xml \
+    vendor.qti.hardware.limits@1.0-service.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    manifest_dax_dolby_v3_6.xml \
+    manifest_oplus_cameraextension_aidl.xml \
+    manifest_oplus_fingerprint.xml \
+    manifest_oplus_sendextcamcmd.xml
 
 PRODUCT_PACKAGES += \
     libimscamera_jni_libimscamera_jni_symlink64 \
